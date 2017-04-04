@@ -47,7 +47,7 @@ a:hover {
 } 
 
 #main .container-fluid {
-  float: right;
+  float: left;
   text-align: left;
   margin: 100px 100px;
 }
