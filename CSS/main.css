@@ -48,8 +48,8 @@ a:hover {
 
 #main .container-fluid {
   float: right;
-  text-align: right;
-  margin: 50px 50px;
+  text-align: left;
+  margin: 100px 100px;
 }
 
 /* Banner */
