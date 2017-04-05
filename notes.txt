@@ -1,0 +1,25 @@
+Main Page
+
+*need to find a template I like or just be okay with super minimalist page*
+
+H1: Anu Khan
+Background image: Running in Badlands (need to brighten image)
+
+Categories:
+[About Me] 	- values:	analytical thinking (take nothing for granted)
+				mindfulness (look deeply)
+				curiosity (novelty x learning opportunity)
+				reliability (small things matter)
+		- resume (PDF)
+
+[Personal]	- Personal Blog
+		- Dear Madam President
+		- Photography Portfolio
+		- Science Selections (defense presentation, JUAMI, CdCMx)
+
+[Public]	- WDIES? (interactive tool to facilitate discussions on thorny social issues)
+		- CF x Y (tool to encourage mobility and recovery work for dedicated CF athletes)
+		- Heuristic Evaluations of lab equipment UI
+		- 100 Days of Happiness (research, try different wireframe apps, after 100 Days - generate some kind of output)
+		- Meals at Home micro-routes (specific client, ask them about their needs)
+		- Gratitude app w/ fitness and food tracking (Five Mindfulness Trainings)
