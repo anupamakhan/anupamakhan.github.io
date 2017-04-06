@@ -10,7 +10,7 @@ Categories:
 				mindfulness (look deeply)
 				curiosity (novelty x learning opportunity)
 				reliability (small things matter)
-		- resume (PDF)
+		- resume (PDF) - add edX classes and Codecademy
 
 [Personal]	- Personal Blog
 		- Dear Madam President
